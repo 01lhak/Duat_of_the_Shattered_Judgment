@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1aedb6171cf82e44b6f1535f52cc4db, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: Assembly-CSharp::NPCProfileData
+  npcID: 1
+  portrait: {fileID: -8343311796744584034, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  icon: {fileID: 4994189535252466317, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  npcName: "\uBC14\uC2A4\uD14C\uD2B8"
+  age: "\uD30C\uD53C\uB8E8\uC2A4 \uC11C\uAE30\uC774\uC790 \uACE0\uC591\uC774 \uC2E0"
+  gender: "\uD669\uAE08 \uBAA9\uAC78\uC774\uB97C \uCC2C \uC218\uD638\uC2E0"
+  job: "\uACE0\uB300 \uC774\uC9D1\uD2B8 \uC2E0\uC131 \uB3C4\uC11C\uAD00"
+  affiliation: "\uBA54\uC81C\uB4DC\uC758 \uC804\uC18D \uCD94\uB9AC \uC870\uB825\uC790"
+  description: "\uBC14\uC2A4\uD14C\uD2B8(Bastet) - \uC870\uB825\uC790\n\n\uD0DC\uC591\uC2E0
+    \uB77C\uC758 \uB208\uC774\uC790 \uAC00\uC815\uC758 \uD3C9\uD654\uB97C \uC9C0\uD0A4\uB294
+    \uACE0\uC591\uC774 \uC5EC\uC2E0.\n\n\uCE60\uD751\uCC98\uB7FC \uC0C8\uAE4C\uB9CC
+    \uD138\uC5D0 \uBCF4\uC11D\uC774 \uCD18\uCD18\uD788 \uBC15\uD78C \uD654\uB824\uD55C
+    \uD669\uAE08 \uBAA9\uAC78\uC774\uB97C \uCC2C \uD488\uACA9 \uC788\uB294 \uBAA8\uC2B5\uC744
+    \uD558\uACE0 \uC788\uB2E4.\n\n\uCEE4\uB2E4\uB780 \uD638\uBC15\uC0C9 \uB208\uB3D9\uC790\uB85C
+    \uD604\uC7A5\uC758 \uBAA8\uB4E0 \uB2E8\uC11C\uB97C \uC608\uB9AC\uD558\uAC8C \uD3EC\uCC29\uD558\uBA70,
+    \uC0C1\uD615\uBB38\uC790 \uD574\uB3C5\uACFC \uC0AC\uD6C4\uC138\uACC4\uC758 \uADDC\uC728\uC5D0
+    \uBC15\uC2DD\uD558\uC5EC \uBA54\uC81C\uB4DC\uC5D0\uAC8C \uACB0\uC815\uC801\uC778
+    \uCD94\uB9AC \uD78C\uD2B8\uB97C \uC81C\uACF5\uD558\uB294 \uB4E0\uB4E0\uD55C \uC870\uB825\uC790\uB2E4."
+  commentPortrait: {fileID: 1911992716592424800, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  comment: "\uC9C0\uC2DD\uC740 \uD655\uC2E4\uD558\uACE0 \uAC89\uBCF4\uAE30\uC5D4
+    \uC6B0\uC544\uD55C \uC2E0\uC778\uB370,\n\uAC00\uB054 \uC870\uC0AC \uC911\uC5D0
+    \uB0B4 \uC608\uBCF5 \uC790\uB77D\uC5D0 \uAFB9\uAFB9\uC774\uB97C \uD574."

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1aedb6171cf82e44b6f1535f52cc4db, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: Assembly-CSharp::NPCProfileData
+  npcID: 2
+  portrait: {fileID: 4515537875007782212, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  icon: {fileID: 4979876616108224910, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  npcName: "\uC544\uB204\uBE44\uC2A4"
+  age: "\uC0AC\uD6C4\uC138\uACC4\uC758 \uC778\uB3C4\uC790"
+  gender: "\uC790\uCE7C\uC758 \uADC0\uB97C \uAC00\uC9C4 \uC2E0"
+  job: "\uC9C4\uB9AC\uC758 \uC7AC\uD310\uC815"
+  affiliation: "\uC0AC\uAC74\uC758 \uD310\uC744 \uC9E0 \uC2E0\uB4E4 \uC911 \uD55C
+    \uBA85 "
+  description: "\uC544\uB204\uBE44\uC2A4(Anubis) - \uC8FD\uC74C\uC758 \uC2E0\n\n\uC8FD\uC740
+    \uC790\uB4E4\uC758 \uC601\uD63C\uC744 \uBC95\uC815\uC73C\uB85C \uC778\uB3C4\uD558\uACE0,
+    \uC9C4\uB9AC\uC758 \uC5EC\uC2E0 \uB9C8\uC544\uD2B8\uC758 \uC800\uC6B8\uC744 \uC9C1\uC811
+    \uAD00\uB9AC\uD558\uB294 \uC2EC\uD310\uC758 \uC9D1\uD589\uAD00.\n\n\uAE38\uAC8C
+    \uB298\uC5B4\uB728\uB9B0 \uAC80\uC740 \uACF1\uC2AC\uBA38\uB9AC\uC640 \uBA38\uB9AC
+    \uC704\uB85C \uC19F\uC740 \uB0A0\uCE74\uB85C\uC6B4 \uC790\uCE7C\uC758 \uADC0,
+    \uADF8\uB9AC\uACE0 \uD654\uB824\uD55C \uD669\uAE08 \uC7A5\uC2E0\uAD6C\uAC00 \uBC15\uD78C
+    \uAC80\uC740 \uC0AC\uC81C\uBCF5\uC774 \uC704\uC555\uAC10\uC744 \uC900\uB2E4.\n\n\uD131\uC744
+    \uAD2C\uC744 \uB54C \uBCF4\uC774\uB294 \uBB34\uAC10\uAC01\uD558\uACE0 \uB0C9\uC815\uD574
+    \uBCF4\uC774\uB294 \uB208\uBE5B \uB4A4\uB85C \uCCA0\uC800\uD55C \uB0C9\uC815\uD568\uC744
+    \uC228\uAE30\uACE0 \uC788\uC73C\uBA70, \uC624\uC9C1 \uBA85\uBC31\uD55C \uC99D\uAC70\uC640
+    \uC9C4\uC2E4\uB9CC\uC744 \uC694\uAD6C\uD55C\uB2E4."
+  commentPortrait: {fileID: 4994189535252466317, guid: 3380b02fe2432fa47a6b4e801e9521d1, type: 3}
+  comment: "\uC544\uB204\uBE44\uC2A4\uB294 \uC5BC\uAD74\uAC12\uC744 \uBABB \uD574.\n\uAE30\uAECF
+    \uB2E8\uC11C\uB97C \uAC00\uC838\uAC00\uB3C4 \uC800 \uC74C\uCE68\uD55C \uB208\uC73C\uB85C
+    \uCCD0\uB2E4\uBCF4\uBA70 \uAF2C\uCE58\uAF2C\uCE58 \uCE90\uBB3B\uB294\uB2E4\uB0E5."

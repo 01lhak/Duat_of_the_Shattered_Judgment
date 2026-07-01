@@ -6,6 +6,45 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Friend_GameB/Scenes/1Mainmenu.unity
+    guid: 70de913d8e0881c4b9820f4d67884796
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/2GameLoading.unity
+    guid: ca7bb395627215548af40a7d7b040a44
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/3Saveload.unity
+    guid: 249c01d6cf08b3d459a7289cc89f2e7a
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/4Options.unity
+    guid: e3bf299d43ab0484598587e9c5353eeb
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/5Story1.unity
+    guid: bd1820738d5d88247af20de8cae04cfd
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/6.1.unity
+    guid: f1fb75527b7e56647adae5a0d2da26dd
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/7.2.unity
+    guid: 6661b442e28b08445a0a6143c6616270
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/8.3.unity
+    guid: 325872e48ff2d1d4d89fbd52493824b9
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/9.4_1.unity
+    guid: b4068938fa510a44287d164b4f2989b0
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/9.4_2.unity
+    guid: c64df339f6dee754ca44f86a36d971f6
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/9.4_3.unity
+    guid: a1651c61db79a8345a3e93c66eaf41ec
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/10.5_1.unity
+    guid: b4eae54422b8ff04d8fc544c8bf26924
+  - enabled: 1
+    path: Assets/Friend_GameB/Scenes/10.5_2.unity
+    guid: f6768cbd492013b44b7b3e94ebb7cab4
+  - enabled: 1
     path: Assets/Scenes/Scene_01_Intro.unity
     guid: 2a1591e958f651740bd26346b9f8fcaf
   - enabled: 1

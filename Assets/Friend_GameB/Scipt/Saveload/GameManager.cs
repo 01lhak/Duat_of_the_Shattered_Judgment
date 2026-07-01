@@ -33,6 +33,10 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
             DontDestroyOnLoad(gameObject);
+
+            // ★ 추가: 아무 씬에서나 새로 시작했을 때 무조건 입력 잠금을 강제로 풀어줍니다.
+            IsPauseOpen = false;
+            IsInventoryOpen = false;
         }
         else
         {

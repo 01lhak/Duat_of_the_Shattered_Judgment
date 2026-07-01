@@ -1,2 +1,2 @@
-# -_-
+# Duat of the Shattered Judgment
 고대 이집트 신화 기반 역사 추리 시뮬레이션 게임
